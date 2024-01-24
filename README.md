@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is José and I'm a programming enthusiast from Distrito Federal</p>
+<p align="left">My name is José and I'm a technology enthusiast from Distrito Federal</p>
 
 ###
 
